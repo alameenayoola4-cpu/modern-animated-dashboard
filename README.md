@@ -1,6 +1,6 @@
 # Nexus.io Admin Dashboard
 
-A modern, animated admin dashboard built with React, Vite, and Framer Motion. Features a sleek dark theme with interactive charts, smooth animations, and responsive design.
+A modern, animated admin dashboard built with React, Vite, and Framer Motion. Features a sleek dark theme with interactive charts, smooth animations.
 
 ## Features
 
